@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/assignment-wakecap/static/css/main.d15d846a.chunk.css"
   },
   {
-    "revision": "2bd1da10273b5985de3a28f407c97995",
+    "revision": "585f740a4dab243ff1f012ca69da6fe8",
     "url": "/assignment-wakecap/index.html"
   }
 ];
