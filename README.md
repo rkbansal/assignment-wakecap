@@ -2,6 +2,11 @@
 ## Application on React
 ### List of the libararies i have used..
 
+####Login Details to test the app
+#### email: test@test.com
+#### password: 1234
+
+
 **@atlaskit** for Avatars, dropdown, dynamic table, form
 
 **validator** for email validation
