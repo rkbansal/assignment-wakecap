@@ -1,19 +1,18 @@
 # assignment-wakecap
 ## Application on React
-### List of the libararies i have used..
 
-#### Login Details to test the app
+### Login Details to test the app
 #### email: test@test.com
 #### password: 1234
 
-
+### List of the libararies i have used..
 **@atlaskit** for Avatars, dropdown, dynamic table, form
 
 **validator** for email validation
 
 **react-router-dom** for routing
 
-**Features completed:**
+### Features completed:
 
 **Login-Logout Feature:** (using local storage to store user credentials)
 
@@ -26,7 +25,7 @@ I haven't **BootStrap** because it will not show my skills in CSS, instead used 
 Things completed and tested (basically on Chrome, and safari):
 
 
-**Run guidance:**
+### Run guidance:
 Just go to the root folder and type:
 
 **npm install** then,
